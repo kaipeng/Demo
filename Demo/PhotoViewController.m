@@ -1,23 +1,29 @@
 //
-//  SecondViewController.m
+//  PhotoViewController.m
 //  Demo
 //
 //  Created by Kai Peng on 11/18/12.
 //  Copyright (c) 2012 Kai Peng. All rights reserved.
 //
 
-#import "SecondViewController.h"
+#import "PhotoViewController.h"
 
-@interface SecondViewController ()
+@interface PhotoViewController ()
 
 @end
 
-@implementation SecondViewController
+@implementation PhotoViewController
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void)viewDidAppear:(BOOL)animated
+{
+    [super viewDidAppear:(BOOL)animated];
+    
 }
 
 - (void)didReceiveMemoryWarning

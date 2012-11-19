@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  PhotoViewController.h
 //  Demo
 //
 //  Created by Kai Peng on 11/18/12.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
+
+
+@interface PhotoViewController : UIViewController
 
 @end

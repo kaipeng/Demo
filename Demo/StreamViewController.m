@@ -1,24 +1,25 @@
 //
-//  FirstViewController.m
+//  StreamViewController.m
 //  Demo
 //
 //  Created by Kai Peng on 11/18/12.
 //  Copyright (c) 2012 Kai Peng. All rights reserved.
 //
 
-#import "FirstViewController.h"
+#import "StreamViewController.h"
 
-@interface FirstViewController ()
+@interface StreamViewController ()
 
 @end
 
-@implementation FirstViewController
+@implementation StreamViewController 
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }
+
 
 - (void)didReceiveMemoryWarning
 {

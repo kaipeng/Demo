@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  TabBarControllerViewController.h
 //  Demo
 //
 //  Created by Kai Peng on 11/18/12.
@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "GetChute.h"
 
-@interface SecondViewController : UIViewController
+@interface TabBarControllerViewController : UITabBarController
 
 @end
